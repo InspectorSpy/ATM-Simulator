@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ggyRquqKzOwr40hQE6nZ">
+    <mxGraphModel dx="1030" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DoTmOfTToM_b65xkgT_y-8" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="&amp;lt;&amp;lt;QT-Sovellus&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="310" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="DoTmOfTToM_b65xkgT_y-9" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="MainWindow" vertex="1">
+          <mxGeometry height="50" width="100" x="340" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
